@@ -6,14 +6,19 @@
 ---
 
 <h5> Basic understanding of Addictive Drugs</h5>
-<p>At base, addictive chemicals are a detrement to society as a whole. They cause problems within someone, their family, and society<p>
-<p> Addictivity of a chemical is based solely off of the body's dependence on the chemical itself. This drive allows the body to feel "complete" in a sense, and may be seen as a mediciation of sort to it.<p>
+<p>At base, addictive chemicals are a detriment to society as a whole. They cause problems within someone, their family, and society<p>
+<p> The body's addiction of a chemical is based solely off of the body's dependence on the chemical itself. This drive allows the body to feel "complete" in a sense, and may be seen as a medication of sort to it.<p>
 <p> At base, hard drugs are extremely hard to moderate by the user, which furthermore drives the market of hard drug selling. This article is a pure descriptor of drug effects and what certain larger drugs within those categories.</p>
 
 <h5> Hallucinogenics</h5>
 <p>Hallucinogenics are a massive umbrella term for drugs that fall under the term of "psychoactives"<p>
-<p>Psychoactives as a whole are drugs "that, when taken in or administered into one's system, affect mental processes" (WHO). In basic, they alter a person's percieved state of mind. They affect the chemical balances within the brain to make the body percieve something different than reality.</p>
-<p>A great example of a easily accessible psychoactive is marijuana.</p>
+<p>Psychoactives as a whole are drugs "that, when taken in or administered into one's system, affect mental processes" (WHO). In basic, they alter a person's perceived state of mind. They affect the chemical balances within the brain to make the body perceive something different than reality.</p>
+<p>A great example of a easily accessible psychoactive is marijuana. It effects your perception of hunger, thirst due to the THC concent within it. That THC also causes hallucinogenic effects within it, which changes your perception of reality.</p>
+
+<h6>Dissociatives</h6>
+<p>Dissociatives are a category under psychoactives and more specifically under Hallucinogenics.</p>
+<p>Dissociatives are an extremely dangerous drug if used outside of medical advisory due to their ability to disassociate yourself from your conceived reality, hence the name. You may see hallucinations and may do behaviors based off of those hallucinations, and these behaviors can range from breakdowns to violent actions.</p>
+<p>A largely popular drug is Ketamine. Although it is a Schedule III narcotic in US schedules, the drug being used outside of medical supervision for nonprescriptive reasons, it makes this drug especially dangerous. 
 
 <h3> WIP...</h3>
 
@@ -21,5 +26,7 @@
 
 <h6 align="center"> Citations (MLA Format)</h6>
 
-<em>World Health Organization. (n.d.). Drugs. https://www.who.int/health-topics/drugs-psychoactive#tab=tab_1</em>
+<p style="text-indent: 25px;">
+World Health Organization. (n.d.). Drugs. https://www.who.int/health-topics/drugs-psychoactive#tab=tab_1
+</p>
  
