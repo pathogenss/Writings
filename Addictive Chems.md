@@ -26,7 +26,7 @@
 
 <h6 align="center"> Citations (MLA Format)</h6>
 
-<p style="text-indent: 25px;">
+<p style="text-indent:25px;">
 World Health Organization. (n.d.). Drugs. https://www.who.int/health-topics/drugs-psychoactive#tab=tab_1
 </p>
  
