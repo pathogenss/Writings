@@ -6,8 +6,8 @@
 ---
 
 <h5> Basic understanding of Addictive Drugs</h5>
-<p>At base, addictive chemicals are a detriment to society as a whole. They cause problems within someone, their family, and society<p>
-<p> The body's addiction of a chemical is based solely off of the body's dependence on the chemical itself. This drive allows the body to feel "complete" in a sense, and may be seen as a medication of sort to it.<p>
+<p>At base, addictive chemicals are a detriment to society as a whole. They cause problems within someone, their family, and society.<p>
+<p> The body's addiction of a chemical is based solely off of the body's dependence on the chemical itself. This drive allows the body to feel "complete" in a sense, and may be seen as a medication of sort.<p>
 <p> At base, hard drugs are extremely hard to moderate by the user, which furthermore drives the market of hard drug selling. This article is a pure descriptor of drug effects and what certain larger drugs within those categories.</p>
 
 <h5> Hallucinogenics</h5>
